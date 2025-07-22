@@ -1,5 +1,5 @@
 services:
-  - type: web
+  - type: pserv
     name: mysql-emca
     env: docker
     plan: free
